@@ -18696,7 +18696,7 @@ html.maximized-card {
 .login-page, .register-page {
   -ms-flex-align: center;
   align-items: center;
-  background-image: url(https://i.pinimg.com/564x/fe/c1/25/fec1256548f2df11323d6462305bfdf2.jpg);
+  background-color: lightskyblue;
   background-size: 100%;
   display: -ms-flexbox;
   display: flex;
